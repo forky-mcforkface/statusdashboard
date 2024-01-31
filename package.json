@@ -44,7 +44,7 @@
     "redis": "0.8.1",
     "hiredis": "0.1.17",
     "pkginfo": "0.2.3",
-    "nodemailer": "0.3.28",
+    "nodemailer": "6.9.8",
     "graphite": "0.0.6",
     "request": "2.11.4",
     "node-xmpp-client": "0.1.4",
